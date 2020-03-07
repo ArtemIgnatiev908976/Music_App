@@ -6,6 +6,10 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
+
+  background: url(bubble.gif) no-repeat;
+ background-size: 100%;
+
 }
 
 .app {
@@ -20,10 +24,12 @@ header h1 {
     margin: 50px 0 30px 0px;
     text-align: center;
     font-size: 40px;
+color: white;
 }
 
 header p {
     font-size: 20px;
+color: white;
 }
 
 .pads {
